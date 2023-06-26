@@ -13,3 +13,12 @@
 # Compute power
 This analysis takes ~1 week with the following resources: 
 --ntasks=1 --cpus-per-task=36 --mem=960gb
+
+# Package versions (PackageName_version)
+R_4.0.3 (base R)
+dplyr_1.1.2
+xlsx_0.6.5
+tidyverse_1.3.0
+phyloseq_1.34.0
+SpiecEasi_1.1.0
+igraph_1.2.6
